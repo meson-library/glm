@@ -1,0 +1,4 @@
+[wrap-git]
+directory = glm
+url = https://github.com/meson-library/glm.git
+revision = v0.9.9.8
