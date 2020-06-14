@@ -1,0 +1,4 @@
+option('install_docs',
+        description : 'Install the glm documentation.',
+        type        : 'boolean',
+        value       : false)
